@@ -12,7 +12,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" style="width:40px"/> </a>
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://glints.com/id/lowongan/wp-content/uploads/2021/01/c-commons-wikimedia-org.png" style="width:40px"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -37,13 +37,8 @@
   <br/>
   <p align="center">
     <img alt="Aufa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aufarhmn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <img alt="Aufa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aufarhmn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
-
 <img alt="Aufa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aufarhmn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
