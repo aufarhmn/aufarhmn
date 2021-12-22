@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m interested in **AI/ML research** 
+- 🔭 I’m interested in **AI/ML Research** 
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -37,8 +37,6 @@
   <br/>
   <p align="center">
     <img alt="Aufa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aufarhmn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </p>
-  <br/>
-<br/>
-<br/>
-<img alt="Aufa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aufarhmn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    </p>
+    <br/>
+    <img alt="Aufa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aufarhmn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
