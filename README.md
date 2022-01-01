@@ -29,6 +29,6 @@
 <br/>
 
 <p align="center">
-        <alt="Aufa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aufarhmn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="Streak Stats" alt="Aufa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aufarhmn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
