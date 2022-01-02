@@ -25,10 +25,16 @@
     <a href="https://www.framer.com/motion/" target="_blank"> <img src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="framer" style="width:40px"/> </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+## 📊 My Github Stats
 
 <p align="center">
-        <img title="Streak Stats" alt="Aufa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aufarhmn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="Streak Stats" alt="Aufa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aufarhmn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<br/>
+<img alt="Aufa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aufarhmn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+
+<br/>
+<img alt="Aufa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aufarhmn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
