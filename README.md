@@ -26,10 +26,9 @@
 
 <br/>
 
-<b>Note:</b> Still Learning More and More!
+<b align="center">Note:</b> Still Learning More and More!
 </p>
 
-<br/>
 <br/>
 
 ## 📊 My Github Stats
