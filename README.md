@@ -12,7 +12,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="center" text-align="center"> 
+<p align="center"> 
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" style="width:40px"/> </a>
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://glints.com/id/lowongan/wp-content/uploads/2021/01/c-commons-wikimedia-org.png" style="width:40px"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -23,10 +23,8 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.framer.com/motion/" target="_blank"> <img src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="framer" style="width:40px"/> </a>
-
-<br/>
-
-<b>Note:</b> Still Learning More and More!
+    <br/>
+    <b>Note:</b> Still Learning More and More!
 </p>
 
 ## 📊 My Github Stats
