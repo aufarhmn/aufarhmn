@@ -23,8 +23,14 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.framer.com/motion/" target="_blank"> <img src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="framer" style="width:40px"/> </a>
+
+<br/>
+
 <b>Note:</b> Still Learning More and More!
 </p>
+
+<br/>
+<br/>
 
 ## 📊 My Github Stats
 
