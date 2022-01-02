@@ -23,6 +23,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.framer.com/motion/" target="_blank"> <img src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="framer" style="width:40px"/> </a>
+<b>Note:</b> Still Learning More and More!
 </p>
 
 ## 📊 My Github Stats
@@ -30,6 +31,7 @@
 <p align="center">
     <img title="Streak Stats" alt="Aufa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aufarhmn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+<br/>
 
 <br/>
 <img alt="Aufa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aufarhmn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
