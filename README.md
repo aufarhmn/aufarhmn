@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aufa</h1>
+<h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ## 🙋‍♂️ About Me
 
@@ -9,6 +9,10 @@
 - 📫 How to reach me **linktr.ee/aufarhmn**
 
 - ⚡ Fun fact **I spent so much time listening to music!**
+
+<br />
+
+![](https://komarev.com/ghpvc/?username=aufarhmn&color=blue)
 
 ## 🚀 Languages and Tools:
 
