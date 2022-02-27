@@ -10,8 +10,6 @@
 
 ![](https://komarev.com/ghpvc/?username=aufarhmn&color=blue)
 
-<br />
-
 ## 📊 My Github Stats
 
 <p align="center">
